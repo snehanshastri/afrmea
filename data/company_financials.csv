@@ -1,0 +1,13 @@
+company,quarter,revenue,net_profit,total_debt,equity,current_assets,current_liabilities,operating_cash_flow
+AlphaBank,Q1,1000,120,500,400,700,300,150
+AlphaBank,Q2,950,100,600,380,650,350,80
+AlphaBank,Q3,800,60,750,350,600,420,-20
+AlphaBank,Q4,750,40,900,300,580,500,-50
+BetaFinance,Q1,2000,300,800,1000,1200,600,250
+BetaFinance,Q2,2100,320,820,1050,1250,620,270
+BetaFinance,Q3,2150,330,830,1100,1300,650,290
+BetaFinance,Q4,2200,350,850,1150,1350,700,310
+GammaCapital,Q1,1500,200,700,800,900,500,180
+GammaCapital,Q2,1480,180,720,790,880,520,160
+GammaCapital,Q3,1520,210,710,820,920,510,200
+GammaCapital,Q4,1550,230,690,850,950,500,220
